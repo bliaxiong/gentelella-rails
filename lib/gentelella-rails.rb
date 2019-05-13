@@ -2,7 +2,7 @@ require 'bootstrap-sass'
 require 'font-awesome-sass'
 require 'jquery-rails'
 require 'fastclick-rails'
-i
+
 module Gentelella
   class << self
     def load!
