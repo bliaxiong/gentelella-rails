@@ -1,8 +1,8 @@
-#= require jquery
+#= require jquery2
 #= require jquery_ujs
-#= require fastclick
 #= require bootstrap
 #= require moment-with-locales.js
+#= require fastclick
 
 $ ->
   new FastClick(document.body)
